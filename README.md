@@ -12,3 +12,5 @@ This project consists of two main components:
 Please run frontend and Backend servers in 2 different ports:
   i. Backend server will be running in 3000. (Port is defined in code `const PORT = process.env.PORT || 3000;` ) .
   ii. Please run Frontend server in other ports other than 3000.
+  iii. I have added the images for your reference.
+
